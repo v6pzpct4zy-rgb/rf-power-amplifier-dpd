@@ -17,7 +17,7 @@ The system uses 16-QAM modulation with root-raised cosine pulse shaping and eval
 - Signal Processing Toolbox
 
 ## Project Structure
-
+```text
 main.m                         Main simulation script
 generate_modulated_waveform.m  Generates the 16-QAM waveform
 pa_model.m                     Nonlinear RF power amplifier model
